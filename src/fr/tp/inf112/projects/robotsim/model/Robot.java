@@ -147,11 +147,28 @@ public class Robot extends Component {
 		int y_position = getPosition().getyCoordinate();
 		int step = getFactory().getPathResolution();
 
-		Position[] positions = { new Position(x_position + step, y_position),
-				new Position(x_position, y_position + step),
-				new Position(x_position - step, y_position),
-				new Position(x_position, y_position - step)
-		};
+		final Component otherComponent = getFactory().getMobileComponentAt(blockedTargetPosition,
+				this);
+
+		if (otherComponent == null) {
+			return null;
+		}
+
+		if (blockedTargetPosition == null) {
+			return null;
+		}
+
+		int x_blocked = otherComponent.getPosition().getxCoordinate();
+
+		Position[] positions = new Position[2];
+
+		if (x_position != x_blocked) {
+			positions[0] = new Position(x_position, y_position + step);
+			positions[1] = new Position(x_position, y_position - step);
+		} else {
+			positions[0] = new Position(x_position + step, y_position);
+			positions[1] = new Position(x_position - step, y_position);
+		}
 
 		for (int i = 0; i < positions.length; i++) {
 			final Position targetPosition = positions[i];
@@ -159,8 +176,8 @@ public class Robot extends Component {
 					targetPosition.getyCoordinate(),
 					2,
 					2);
-			if (getFactory().hasObstacleAt(shape) || getFactory().hasMobileComponentAt(shape, this)) {
-				return positions[(i + 1) % 4];
+			if (!getFactory().hasObstacleAt(shape) && !getFactory().hasMobileComponentAt(shape, this)) {
+				return positions[i];
 			}
 		}
 
