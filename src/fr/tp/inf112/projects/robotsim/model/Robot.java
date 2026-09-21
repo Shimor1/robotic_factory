@@ -123,23 +123,25 @@ public class Robot extends Component {
 	}
 
 	private int moveToNextPathPosition() {
-		final Motion motion = computeMotion();
+		synchronized (getFactory()) {
+			final Motion motion = computeMotion();
 
-		int displacement = motion == null ? 0 : motion.moveToTarget();
+			int displacement = motion == null ? 0 : motion.moveToTarget();
 
-		if (displacement != 0) {
-			notifyObservers();
-		} else if (isLivelyLocked()) {
-			final Position freeNeighbouringPosition = findFreeNeighbouringPosition();
+			if (displacement != 0) {
+				notifyObservers();
+			} else if (isLivelyLocked()) {
+				final Position freeNeighbouringPosition = findFreeNeighbouringPosition();
 
-			if (freeNeighbouringPosition != null) {
-				nextPosition = freeNeighbouringPosition;
-				displacement = moveToNextPathPosition();
-				computePathToCurrentTargetComponent();
+				if (freeNeighbouringPosition != null) {
+					nextPosition = freeNeighbouringPosition;
+					displacement = moveToNextPathPosition();
+					computePathToCurrentTargetComponent();
+				}
 			}
-		}
 
-		return displacement;
+			return displacement;
+		}
 	}
 
 	private Position findFreeNeighbouringPosition() {

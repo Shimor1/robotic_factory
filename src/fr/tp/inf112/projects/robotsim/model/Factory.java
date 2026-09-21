@@ -15,34 +15,34 @@ import fr.tp.inf112.projects.robotsim.model.shapes.RectangularShape;
 public class Factory extends Component implements Canvas, Observable {
 
 	private static final long serialVersionUID = 5156526483612458192L;
-	
+
 	private static final ComponentStyle DEFAULT = new ComponentStyle(5.0f);
 
-    private final List<Component> components;
+	private final List<Component> components;
 
 	private transient List<Observer> observers;
 
 	private transient boolean simulationStarted;
-	
+
 	private int pathResolution;
 
 	public Factory(final int width,
-				   final int height,
-				   final String name,
-				   final int pathResolution) {
+			final int height,
+			final String name,
+			final int pathResolution) {
 		super(null, new RectangularShape(0, 0, width, height), name);
-		
+
 		this.pathResolution = pathResolution;
 		components = new ArrayList<>();
 		observers = null;
 		simulationStarted = false;
 	}
-	
+
 	protected List<Observer> getObservers() {
 		if (observers == null) {
 			observers = new ArrayList<>();
 		}
-		
+
 		return observers;
 	}
 
@@ -55,30 +55,30 @@ public class Factory extends Component implements Canvas, Observable {
 	public boolean removeObserver(Observer observer) {
 		return getObservers().remove(observer);
 	}
-	
+
 	protected void notifyObservers() {
 		for (final Observer observer : getObservers()) {
 			observer.modelChanged();
 		}
 	}
-	
+
 	public boolean addComponent(final Component component) {
 		if (components.add(component)) {
 			notifyObservers();
-			
+
 			return true;
 		}
-		
+
 		return false;
 	}
 
 	public boolean removeComponent(final Component component) {
 		if (components.remove(component)) {
 			notifyObservers();
-			
+
 			return true;
 		}
-		
+
 		return false;
 	}
 
@@ -91,7 +91,7 @@ public class Factory extends Component implements Canvas, Observable {
 	public Collection<Figure> getFigures() {
 		return (Collection) components;
 	}
-	
+
 	public int getPathResolution() {
 		return pathResolution;
 	}
@@ -104,7 +104,7 @@ public class Factory extends Component implements Canvas, Observable {
 	public String toString() {
 		return super.toString() + " components=" + components + "]";
 	}
-	
+
 	public boolean isSimulationStarted() {
 		return simulationStarted;
 	}
@@ -114,23 +114,14 @@ public class Factory extends Component implements Canvas, Observable {
 			this.simulationStarted = true;
 			notifyObservers();
 
-			while (isSimulationStarted()) {
-				behave();
-				
-				try {
-					Thread.sleep(100);
-				}
-				catch (final InterruptedException ex) {
-					System.err.println("Simulation was abruptly interrupted");
-				}
-			}
+			behave();
 		}
 	}
 
 	public void stopSimulation() {
 		if (isSimulationStarted()) {
 			this.simulationStarted = false;
-			
+
 			notifyObservers();
 		}
 	}
@@ -138,61 +129,63 @@ public class Factory extends Component implements Canvas, Observable {
 	@Override
 	public boolean behave() {
 		boolean behaved = true;
-		
+
 		for (final Component component : getComponents()) {
-			behaved = component.behave() || behaved;
+			Thread thread = new Thread(component);
+			thread.start();
 		}
-		
+
 		return behaved;
 	}
-	
+
 	@Override
 	public Style getStyle() {
 		return DEFAULT;
 	}
-	
+
 	public boolean hasObstacleAt(final PositionedShape shape) {
 		for (final Component component : getComponents()) {
 			if (component.overlays(shape) && !component.canBeOverlayed(shape)) {
 				return true;
 			}
 		}
-		
+
 		return false;
 	}
-	
+
 	public boolean hasMobileComponentAt(final PositionedShape shape,
-										final Component movingComponent) {
+			final Component movingComponent) {
 		for (final Component component : getComponents()) {
 			if (component != movingComponent && component.isMobile() && component.overlays(shape)) {
 				return true;
 			}
 		}
-		
+
 		return false;
 	}
-	
-	public Component getMobileComponentAt(	final Position position,
-											final Component ignoredComponent) {
+
+	public Component getMobileComponentAt(final Position position,
+			final Component ignoredComponent) {
 		if (position == null) {
 			return null;
 		}
-		
-		return getMobileComponentAt(new RectangularShape(position.getxCoordinate(), position.getyCoordinate(), 2, 2), ignoredComponent);
+
+		return getMobileComponentAt(new RectangularShape(position.getxCoordinate(), position.getyCoordinate(), 2, 2),
+				ignoredComponent);
 	}
-	
-	public Component getMobileComponentAt(	final PositionedShape shape,
-											final Component ignoredComponent) {
+
+	public Component getMobileComponentAt(final PositionedShape shape,
+			final Component ignoredComponent) {
 		if (shape == null) {
 			return null;
 		}
-		
+
 		for (final Component component : getComponents()) {
 			if (component != ignoredComponent && component.isMobile() && component.overlays(shape)) {
 				return component;
 			}
 		}
-		
+
 		return null;
 	}
 }
