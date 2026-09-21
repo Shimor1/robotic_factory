@@ -153,15 +153,14 @@ public class Robot extends Component {
 				new Position(x_position, y_position - step)
 		};
 
-		for (Position  p : positions) {
-			final Position targetPosition = p;
+		for (int i = 0; i < positions.length; i++) {
+			final Position targetPosition = positions[i];
 			final PositionedShape shape = new RectangularShape(targetPosition.getxCoordinate(),
 					targetPosition.getyCoordinate(),
 					2,
 					2);
-			
-			if (!getFactory().hasObstacleAt(shape) && !getFactory().hasMobileComponentAt(shape, this)) {
-				return targetPosition;
+			if (getFactory().hasObstacleAt(shape) || getFactory().hasMobileComponentAt(shape, this)) {
+				return positions[(i + 1) % 4];
 			}
 		}
 
@@ -211,13 +210,11 @@ public class Robot extends Component {
 		// the next position from the path
 		if (this.blockedTargetPosition == null) {
 			return currentPathPositionsIter.next();
-		}
-		else if (nextPosition != null) {
+		} else if (nextPosition != null) {
 			Position temp_nextPosition = nextPosition;
 			nextPosition = null;
 			return temp_nextPosition;
-		}
-		else {
+		} else {
 			return this.blockedTargetPosition;
 		}
 
