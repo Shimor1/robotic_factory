@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimulatorApplication",
+            "request": "launch",
+            "mainClass": "fr.tp.inf112.projects.robotsim.app.SimulatorApplication",
+            "projectName": "fr.tp.inf112.projects.robotsim",
+            "vmArgs": "-Djava.util.logging.config.file=config/logging.properties"
+        }
+    ]
+}

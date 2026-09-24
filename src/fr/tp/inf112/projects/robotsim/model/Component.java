@@ -143,7 +143,7 @@ public abstract class Component implements Figure, Serializable, Runnable {
 		while (isSimulationStarted()) {
 			behave();
 			try {
-				Thread.sleep(200);
+				Thread.sleep(50);
 			} catch (InterruptedException e) {
 			}
 		}

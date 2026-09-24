@@ -24,13 +24,15 @@ import fr.tp.inf112.projects.robotsim.model.path.JGraphTDijkstraFactoryPathFinde
 import fr.tp.inf112.projects.robotsim.model.shapes.BasicPolygonShape;
 import fr.tp.inf112.projects.robotsim.model.shapes.CircularShape;
 import fr.tp.inf112.projects.robotsim.model.shapes.RectangularShape;
+import java.util.logging.Logger;
 
 public class SimulatorApplication {
 
+	private static final Logger LOGGER = Logger.getLogger(SimulatorApplication.class.getName());
 	public static void main(String[] args) {
-		System.out.println("Starting the robot simulator...");
+		LOGGER.info("Starting the robot simulator...");
 		
-		System.out.println("With parameters " + Arrays.toString(args) + ".");
+		LOGGER.config("With parameters " + Arrays.toString(args) + ".");
 		
 		final Factory factory = new Factory(200, 200, "Simple Test Puck Factory", 5);
 		final Room room1 = new Room(factory, new RectangularShape(20, 20, 75, 75), "Production Room 1");

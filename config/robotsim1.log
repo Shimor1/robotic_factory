@@ -1,0 +1,3991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2026-09-23T13:17:28.373378500Z</date>
+  <millis>1790169448373</millis>
+  <nanos>378500</nanos>
+  <sequence>273</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>sun.awt.TimedWindowEvent[WINDOW_LOST_FOCUS,opposite=null,oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:17:28.374863Z</date>
+  <millis>1790169448374</millis>
+  <nanos>863000</nanos>
+  <sequence>274</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>Active fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], Current focused fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], losing focus fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true] opposite null</message>
+</record>
+<record>
+  <date>2026-09-23T13:17:28.375370300Z</date>
+  <millis>1790169448375</millis>
+  <nanos>370300</nanos>
+  <sequence>275</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_LOST,temporary,opposite=null,cause=ACTIVATION] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:17:28.379396300Z</date>
+  <millis>1790169448379</millis>
+  <nanos>396300</nanos>
+  <sequence>276</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.WindowEvent[WINDOW_DEACTIVATED,opposite=null,oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.559599700Z</date>
+  <millis>1790169644559</millis>
+  <nanos>599700</nanos>
+  <sequence>277</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.properties.version=3</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.563621500Z</date>
+  <millis>1790169644563</millis>
+  <nanos>621500</nanos>
+  <sequence>278</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionFont=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.563621500Z</date>
+  <millis>1790169644563</millis>
+  <nanos>621500</nanos>
+  <sequence>279</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionFont.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>280</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionHeight=22</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>281</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionButtonWidth=36</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>282</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionButtonHeight=22</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>283</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.frame.smallCaptionFont=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>284</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.frame.smallCaptionFont.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>285</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.smallCaptionHeight=22</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>286</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.smallCaptionButtonWidth=22</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>287</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.smallCaptionButtonHeight=22</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>288</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.frame.sizingBorderWidth=1</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>289</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.menu.font=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>290</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.menu.font.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>291</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.menu.height=19</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>292</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.menu.buttonWidth=19</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>293</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.scrollbar.width=17</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>294</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.scrollbar.height=17</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>295</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.status.font=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>296</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.status.font.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>297</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.tooltip.font=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>298</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.tooltip.font.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>299</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.messagebox.font=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.565631900Z</date>
+  <millis>1790169644565</millis>
+  <nanos>631900</nanos>
+  <sequence>300</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.messagebox.font.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.567645400Z</date>
+  <millis>1790169644567</millis>
+  <nanos>645400</nanos>
+  <sequence>301</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.icon.hspacing=94</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.567645400Z</date>
+  <millis>1790169644567</millis>
+  <nanos>645400</nanos>
+  <sequence>302</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.icon.vspacing=75</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>303</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.icon.titleWrappingOn=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>304</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.icon.font=java.awt.Font[family=Segoe UI,name=Segoe UI,style=plain,size=12]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>305</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.icon.font.height=12</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>306</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.activeCaptionGradientColor=java.awt.Color[r=185,g=209,b=234]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>307</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.inactiveCaptionGradientColor=java.awt.Color[r=215,g=228,b=242]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>308</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.item.hotTrackedColor=java.awt.Color[r=0,g=102,b=204]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>309</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.3d.darkShadowColor=java.awt.Color[r=105,g=105,b=105]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>310</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.3d.backgroundColor=java.awt.Color[r=240,g=240,b=240]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>311</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.3d.highlightColor=java.awt.Color[r=255,g=255,b=255]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>312</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.3d.lightColor=java.awt.Color[r=227,g=227,b=227]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>313</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.3d.shadowColor=java.awt.Color[r=160,g=160,b=160]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>314</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.button.textColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>315</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.desktop.backgroundColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>316</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.activeCaptionColor=java.awt.Color[r=153,g=180,b=209]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>317</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.activeBorderColor=java.awt.Color[r=180,g=180,b=180]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>318</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.color=java.awt.Color[r=100,g=100,b=100]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>319</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.backgroundColor=java.awt.Color[r=255,g=255,b=255]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>320</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionTextColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>321</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.inactiveBorderColor=java.awt.Color[r=244,g=247,b=252]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>322</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.inactiveCaptionColor=java.awt.Color[r=191,g=205,b=219]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>323</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.inactiveCaptionTextColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>324</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.frame.textColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>325</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.item.highlightColor=java.awt.Color[r=0,g=120,b=215]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>326</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.item.highlightTextColor=java.awt.Color[r=255,g=255,b=255]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>327</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.mdi.backgroundColor=java.awt.Color[r=171,g=171,b=171]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>328</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.menu.backgroundColor=java.awt.Color[r=240,g=240,b=240]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>329</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.menu.textColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>330</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.menubar.backgroundColor=java.awt.Color[r=240,g=240,b=240]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>331</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.scrollbar.backgroundColor=java.awt.Color[r=200,g=200,b=200]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>332</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.text.grayedTextColor=java.awt.Color[r=109,g=109,b=109]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.569654300Z</date>
+  <millis>1790169644569</millis>
+  <nanos>654300</nanos>
+  <sequence>333</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.tooltip.backgroundColor=java.awt.Color[r=255,g=255,b=225]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.571412100Z</date>
+  <millis>1790169644571</millis>
+  <nanos>412100</nanos>
+  <sequence>334</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setColorProperty</method>
+  <thread>32</thread>
+  <message>win.tooltip.textColor=java.awt.Color[r=0,g=0,b=0]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.575443200Z</date>
+  <millis>1790169644575</millis>
+  <nanos>443200</nanos>
+  <sequence>335</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.caret.width=1</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.577466200Z</date>
+  <millis>1790169644577</millis>
+  <nanos>466200</nanos>
+  <sequence>336</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.frame.fullWindowDragsOn=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.579487100Z</date>
+  <millis>1790169644579</millis>
+  <nanos>487100</nanos>
+  <sequence>337</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.text.fontSmoothingOn=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.583512500Z</date>
+  <millis>1790169644583</millis>
+  <nanos>512500</nanos>
+  <sequence>338</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.text.fontSmoothingType=2</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>339</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.text.fontSmoothingContrast=1200</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>340</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.text.fontSmoothingOrientation=1</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>341</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.drag.width=4</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>342</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>win.drag.height=4</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>343</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>DnD.gestureMotionThreshold=2</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.585471200Z</date>
+  <millis>1790169644585</millis>
+  <nanos>471200</nanos>
+  <sequence>344</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>awt.mouse.numButtons=5</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.589225300Z</date>
+  <millis>1790169644589</millis>
+  <nanos>225300</nanos>
+  <sequence>345</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setIntegerProperty</method>
+  <thread>32</thread>
+  <message>awt.multiClickInterval=500</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.591237400Z</date>
+  <millis>1790169644591</millis>
+  <nanos>237400</nanos>
+  <sequence>346</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>awt.dynamicLayoutSupported=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.591237400Z</date>
+  <millis>1790169644591</millis>
+  <nanos>237400</nanos>
+  <sequence>347</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>awt.wheelMousePresent=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.593256300Z</date>
+  <millis>1790169644593</millis>
+  <nanos>256300</nanos>
+  <sequence>348</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.frame.captionGradientsOn=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.597288100Z</date>
+  <millis>1790169644597</millis>
+  <nanos>288100</nanos>
+  <sequence>349</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.item.hotTrackingOn=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.599303100Z</date>
+  <millis>1790169644599</millis>
+  <nanos>303100</nanos>
+  <sequence>350</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.menu.keyboardCuesOn=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.606703200Z</date>
+  <millis>1790169644606</millis>
+  <nanos>703200</nanos>
+  <sequence>351</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.highContrast.on=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.606703200Z</date>
+  <millis>1790169644606</millis>
+  <nanos>703200</nanos>
+  <sequence>352</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>awt.file.showHiddenFiles=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>353</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>awt.file.showAttribCol=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>354</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.default=WinPlaySound(.Default)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>355</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.close=WinPlaySound(Close)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>356</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.maximize=WinPlaySound(Maximize)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>357</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.minimize=WinPlaySound(Minimize)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>358</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.menuCommand=WinPlaySound(MenuCommand)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>359</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.menuPopup=WinPlaySound(MenuPopup)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>360</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.open=WinPlaySound(Open)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>361</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.restoreDown=WinPlaySound(RestoreDown)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>362</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.restoreUp=WinPlaySound(RestoreUp)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>363</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.asterisk=WinPlaySound(SystemAsterisk)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>364</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.exclamation=WinPlaySound(SystemExclamation)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>365</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.exit=WinPlaySound(SystemExit)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>366</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.hand=WinPlaySound(SystemHand)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>367</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.question=WinPlaySound(SystemQuestion)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.608716500Z</date>
+  <millis>1790169644608</millis>
+  <nanos>716500</nanos>
+  <sequence>368</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setSoundProperty</method>
+  <thread>32</thread>
+  <message>win.sound.start=WinPlaySound(SystemStart)</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.616013700Z</date>
+  <millis>1790169644616</millis>
+  <nanos>13700</nanos>
+  <sequence>369</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.ansiFixed.font=java.awt.Font[family=Monospaced,name=Monospaced,style=plain,size=13]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.618026800Z</date>
+  <millis>1790169644618</millis>
+  <nanos>26800</nanos>
+  <sequence>370</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.ansiFixed.font.height=13</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.618026800Z</date>
+  <millis>1790169644618</millis>
+  <nanos>26800</nanos>
+  <sequence>371</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.ansiVar.font=java.awt.Font[family=Microsoft Sans Serif,name=Microsoft Sans Serif,style=plain,size=11]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.618026800Z</date>
+  <millis>1790169644618</millis>
+  <nanos>26800</nanos>
+  <sequence>372</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.ansiVar.font.height=11</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>373</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.deviceDefault.font=java.awt.Font[family=Dialog,name=Dialog,style=bold,size=16]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>374</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.deviceDefault.font.height=16</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>375</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.defaultGUI.font=java.awt.Font[family=Tahoma,name=Tahoma,style=plain,size=11]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>376</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.defaultGUI.font.height=11</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>377</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.oemFixed.font=java.awt.Font[family=Dialog,name=8514oem,style=plain,size=18]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>378</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.oemFixed.font.height=18</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>379</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.system.font=java.awt.Font[family=Dialog,name=Dialog,style=bold,size=16]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>380</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.system.font.height=16</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>381</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.systemFixed.font=java.awt.Font[family=Dialog,name=Fixedsys,style=plain,size=18]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>382</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setFontProperty</method>
+  <thread>32</thread>
+  <message>win.systemFixed.font.height=18</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.619037900Z</date>
+  <millis>1790169644619</millis>
+  <nanos>37900</nanos>
+  <sequence>383</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setBooleanProperty</method>
+  <thread>32</thread>
+  <message>win.xpstyle.themeActive=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.621069100Z</date>
+  <millis>1790169644621</millis>
+  <nanos>69100</nanos>
+  <sequence>384</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setStringProperty</method>
+  <thread>32</thread>
+  <message>win.xpstyle.dllName=C:\windows\resources\themes\Aero\Aero.msstyles</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.621069100Z</date>
+  <millis>1790169644621</millis>
+  <nanos>69100</nanos>
+  <sequence>385</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setStringProperty</method>
+  <thread>32</thread>
+  <message>win.xpstyle.sizeName=NormalSize</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.621069100Z</date>
+  <millis>1790169644621</millis>
+  <nanos>69100</nanos>
+  <sequence>386</sequence>
+  <logger>sun.awt.windows.WDesktopProperties</logger>
+  <level>FINE</level>
+  <class>sun.awt.windows.WDesktopProperties</class>
+  <method>setStringProperty</method>
+  <thread>32</thread>
+  <message>win.xpstyle.colorName=NormalColor</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.783890500Z</date>
+  <millis>1790169644783</millis>
+  <nanos>890500</nanos>
+  <sequence>387</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>sun.awt.TimedWindowEvent[WINDOW_GAINED_FOCUS,opposite=null,oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.786632200Z</date>
+  <millis>1790169644786</millis>
+  <nanos>632200</nanos>
+  <sequence>388</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=null,oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.986022800Z</date>
+  <millis>1790169644986</millis>
+  <nanos>22800</nanos>
+  <sequence>389</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_GAINED,permanent,opposite=null,cause=ACTIVATION] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:44.986022800Z</date>
+  <millis>1790169644986</millis>
+  <nanos>22800</nanos>
+  <sequence>390</sequence>
+  <logger>sun.awt.im.InputContext</logger>
+  <level>FINE</level>
+  <class>sun.awt.im.InputContext</class>
+  <method>activateInputMethod</method>
+  <thread>34</thread>
+  <message>Current client component fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.890893800Z</date>
+  <millis>1790169646890</millis>
+  <nanos>893800</nanos>
+  <sequence>391</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>sun.awt.TimedWindowEvent[WINDOW_CLOSING,opposite=null,oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.910712100Z</date>
+  <millis>1790169646910</millis>
+  <nanos>712100</nanos>
+  <sequence>392</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.910712100Z</date>
+  <millis>1790169646910</millis>
+  <nanos>712100</nanos>
+  <sequence>393</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.910712100Z</date>
+  <millis>1790169646910</millis>
+  <nanos>712100</nanos>
+  <sequence>394</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; containing window is null</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.910712100Z</date>
+  <millis>1790169646910</millis>
+  <nanos>712100</nanos>
+  <sequence>395</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; containing window is null</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>396</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,0,0,129x35,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>397</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,0,0,129x35,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>398</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>399</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>400</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>401</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,0x0,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>402</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>403</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>404</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.contentPane,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>405</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,0,0,129x35,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,0,0,0x0,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>406</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>407</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>408</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>409</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>410</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>411</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,0,0,0x0,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>412</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,0x0,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>413</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,0x0,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>414</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,0,0,0x0,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>415</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,0,0,0x0,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>416</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>417</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>418</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>419</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>420</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,0,0,0x0,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>421</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,0,0,0x0,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>422</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>423</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>424</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>425</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>426</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.922553600Z</date>
+  <millis>1790169646922</millis>
+  <nanos>553600</nanos>
+  <sequence>427</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,0,0,0x0,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>428</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>429</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>430</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>431</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>432</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>433</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>434</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.contentPane,0,0,262x90,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>435</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,0,0,274x125,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>436</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>437</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>438</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>439</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>440</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>441</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>442</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>443</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>444</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,0x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>445</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,0x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>446</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>447</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>448</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>449</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>450</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,0x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>451</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,0x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>452</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>453</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>454</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>455</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>456</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>457</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>458</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>459</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>460</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>461</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>462</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>463</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>464</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>465</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>466</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>467</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>468</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>469</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>470</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>471</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>472</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>473</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>474</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnReshaping</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>475</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>476</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>477</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>478</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>479</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>480</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>481</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>482</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>483</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>484</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>485</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>486</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.contentPane,0,0,262x90,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>487</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,0,0,274x125,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>488</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>489</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>490</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>491</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>492</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,0,0,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>493</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,0,0,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>494</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnShowing</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.938347Z</date>
+  <millis>1790169646938</millis>
+  <nanos>347000</nanos>
+  <sequence>495</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.965623400Z</date>
+  <millis>1790169646965</millis>
+  <nanos>623400</nanos>
+  <sequence>496</sequence>
+  <logger>java.awt.event.WaitDispatchSupport</logger>
+  <level>FINE</level>
+  <class>java.awt.WaitDispatchSupport</class>
+  <method>enter</method>
+  <thread>34</thread>
+  <message>enter(): blockingEDT=false, blockingCT=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:46.965623400Z</date>
+  <millis>1790169646965</millis>
+  <nanos>623400</nanos>
+  <sequence>497</sequence>
+  <logger>java.awt.event.WaitDispatchSupport</logger>
+  <level>FINE</level>
+  <class>java.awt.WaitDispatchSupport$2</class>
+  <method>run</method>
+  <thread>34</thread>
+  <message>Starting a new event pump</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.909460400Z</date>
+  <millis>1790169647909</millis>
+  <nanos>460400</nanos>
+  <sequence>498</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.909460400Z</date>
+  <millis>1790169647909</millis>
+  <nanos>460400</nanos>
+  <sequence>499</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.909460400Z</date>
+  <millis>1790169647909</millis>
+  <nanos>460400</nanos>
+  <sequence>500</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnValidating</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.909460400Z</date>
+  <millis>1790169647909</millis>
+  <nanos>460400</nanos>
+  <sequence>501</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>502</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>sun.awt.TimedWindowEvent[WINDOW_LOST_FOCUS,opposite=javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>503</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>Active fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], Current focused fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true], losing focus fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true] opposite javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>504</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_LOST,temporary,opposite=javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true],cause=ACTIVATION] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>505</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>sun.awt.TimedWindowEvent[WINDOW_GAINED_FOCUS,opposite=fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on dialog0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>506</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.WindowEvent[WINDOW_ACTIVATED,opposite=fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on dialog0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>507</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.WindowEvent[WINDOW_DEACTIVATED,opposite=javax.swing.JDialog[dialog0,582,363,274x125,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true],oldState=0,newState=0] on frame0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:47.911470700Z</date>
+  <millis>1790169647911</millis>
+  <nanos>470700</nanos>
+  <sequence>508</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.WindowEvent[WINDOW_OPENED,opposite=null,oldState=0,newState=0] on dialog0</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.001185200Z</date>
+  <millis>1790169648001</millis>
+  <nanos>185200</nanos>
+  <sequence>509</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_GAINED,permanent,opposite=null,cause=ACTIVATION] on OptionPane.button</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.001185200Z</date>
+  <millis>1790169648001</millis>
+  <nanos>185200</nanos>
+  <sequence>510</sequence>
+  <logger>sun.awt.im.InputContext</logger>
+  <level>FINE</level>
+  <class>sun.awt.im.InputContext</class>
+  <method>activateInputMethod</method>
+  <thread>34</thread>
+  <message>Current client component javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.557970100Z</date>
+  <millis>1790169648557</millis>
+  <nanos>970100</nanos>
+  <sequence>511</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_LOST,permanent,opposite=javax.swing.JButton[OptionPane.button,91,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true],cause=MOUSE_EVENT] on OptionPane.button</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.557970100Z</date>
+  <millis>1790169648557</millis>
+  <nanos>970100</nanos>
+  <sequence>512</sequence>
+  <logger>java.awt.focus.DefaultKeyboardFocusManager</logger>
+  <level>FINE</level>
+  <class>java.awt.DefaultKeyboardFocusManager</class>
+  <method>dispatchEvent</method>
+  <thread>34</thread>
+  <message>java.awt.event.FocusEvent[FOCUS_GAINED,permanent,opposite=javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true],cause=MOUSE_EVENT] on OptionPane.button</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.557970100Z</date>
+  <millis>1790169648557</millis>
+  <nanos>970100</nanos>
+  <sequence>513</sequence>
+  <logger>sun.awt.im.InputContext</logger>
+  <level>FINE</level>
+  <class>sun.awt.im.InputContext</class>
+  <method>activateInputMethod</method>
+  <thread>34</thread>
+  <message>Current client component javax.swing.JButton[OptionPane.button,25,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.557970100Z</date>
+  <millis>1790169648557</millis>
+  <nanos>970100</nanos>
+  <sequence>514</sequence>
+  <logger>sun.awt.im.InputContext</logger>
+  <level>FINE</level>
+  <class>sun.awt.im.InputContext</class>
+  <method>activateInputMethod</method>
+  <thread>34</thread>
+  <message>Current client component javax.swing.JButton[OptionPane.button,91,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.785826400Z</date>
+  <millis>1790169648785</millis>
+  <nanos>826400</nanos>
+  <sequence>515</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.785826400Z</date>
+  <millis>1790169648785</millis>
+  <nanos>826400</nanos>
+  <sequence>516</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.785826400Z</date>
+  <millis>1790169648785</millis>
+  <nanos>826400</nanos>
+  <sequence>517</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.785826400Z</date>
+  <millis>1790169648785</millis>
+  <nanos>826400</nanos>
+  <sequence>518</sequence>
+  <logger>sun.awt.focus.KeyboardFocusManagerPeerImpl</logger>
+  <level>FINE</level>
+  <class>sun.awt.KeyboardFocusManagerPeerImpl</class>
+  <method>clearGlobalFocusOwner</method>
+  <thread>34</thread>
+  <message>Clearing global focus owner javax.swing.JButton[OptionPane.button,91,6,60x26,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>519</sequence>
+  <logger>java.awt.event.WaitDispatchSupport</logger>
+  <level>FINE</level>
+  <class>java.awt.WaitDispatchSupport</class>
+  <method>exit</method>
+  <thread>34</thread>
+  <message>exit(): blockingEDT=true, blockingCT=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>520</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>521</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,157,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Annuler,defaultCapable=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>522</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>523</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>524</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,91,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Non,defaultCapable=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>525</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>526</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>527</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JButton[OptionPane.button,25,6,60x26,invalid,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@56a281ec,flags=424,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=java.awt.Insets[top=2,left=4,bottom=2,right=4],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Oui,defaultCapable=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>528</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>529</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>530</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.buttonArea,10,45,242x32,invalid,layout=javax.swing.plaf.basic.BasicOptionPaneUI$ButtonAreaLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@537e9562,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>531</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>532</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>533</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.iconLabel,0,0,32x35,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=sun.swing.ImageIconUIResource@2874751d,disabledIcon=,horizontalAlignment=CENTER,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=,verticalAlignment=TOP,verticalTextPosition=CENTER]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>534</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>535</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>536</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLabel[OptionPane.label,0,8,195x16,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Canvas not saved. Save it ?,verticalAlignment=CENTER,verticalTextPosition=CENTER]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>537</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>538</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>539</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.body,15,0,195x35,invalid,layout=java.awt.GridBagLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>540</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>541</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>542</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.separator,0,0,15x35,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=15,height=1]]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>543</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>544</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>545</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[OptionPane.realBody,32,0,210x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>546</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>547</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>548</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[,10,10,242x35,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@2b34c548,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>549</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>550</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>551</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JOptionPane[,0,0,262x90,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.BorderUIResource$EmptyBorderUIResource@6907c37e,flags=392,maximumSize=,minimumSize=,preferredSize=,icon=,initialValue=,message=Canvas not saved. Save it ?,messageType=WARNING_MESSAGE,optionType=YES_NO_CANCEL_OPTION,wantsInput=false]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>552</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>553</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.contentPane,0,0,262x90,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>554</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.contentPane,0,0,262x90,invalid,layout=java.awt.BorderLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>555</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>556</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>557</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,262x90,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>558</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>559</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>560</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,262x90,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>561</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>562</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>563</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>564</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>565</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>566</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JDialog[dialog0,582,363,274x125,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>567</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = javax.swing.JDialog[dialog0,582,363,274x125,invalid,hidden,layout=java.awt.BorderLayout,APPLICATION_MODAL,title=Quit Application,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,262x90,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>568</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>569</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.797456800Z</date>
+  <millis>1790169648797</millis>
+  <nanos>456800</nanos>
+  <sequence>570</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>571</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasPanel[,0,23,1441x807,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>572</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasPanel[,0,23,1441x807,invalid,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>573</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>574</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.AnimateMenu[,33,0,71x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@28e7ccbf,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Animation]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>575</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.AnimateMenu[,33,0,71x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@28e7ccbf,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Animation]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>576</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>577</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.FileMenu[,0,0,33x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@28e7ccbf,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=File]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>578</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.FileMenu[,0,0,33x21,invalid,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuItemBorder@28e7ccbf,flags=256,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=2,bottom=2,right=2],paintBorder=true,paintFocus=false,pressedIcon=,rolloverEnabled=false,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=File]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>579</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>580</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewerMenuBar[,0,0,1441x23,invalid,layout=javax.swing.plaf.basic.DefaultMenuLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuBarBorder@23216b7e,flags=392,maximumSize=,minimumSize=,preferredSize=,margin=,paintBorder=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>581</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewerMenuBar[,0,0,1441x23,invalid,layout=javax.swing.plaf.basic.DefaultMenuLayout,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.metal.MetalBorders$MenuBarBorder@23216b7e,flags=392,maximumSize=,minimumSize=,preferredSize=,margin=,paintBorder=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.959472200Z</date>
+  <millis>1790169648959</millis>
+  <nanos>472200</nanos>
+  <sequence>582</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = true; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>583</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,1441x830,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>584</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,1441x830,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>585</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JLayeredPane[null.layeredPane,0,0,1441x830,invalid,alignmentX=0.0,alignmentY=0.0,border=,flags=0,maximumSize=,minimumSize=,preferredSize=,optimizedDrawingPossible=true]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>586</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,1441x830,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>587</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,1441x830,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>588</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JPanel[null.glassPane,0,0,1441x830,invalid,hidden,layout=java.awt.FlowLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777217,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>589</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight=true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>590</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; isLightweight = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.960474600Z</date>
+  <millis>1790169648960</millis>
+  <nanos>474600</nanos>
+  <sequence>591</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>this = javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=]; areBoundsValid = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.964473700Z</date>
+  <millis>1790169648964</millis>
+  <nanos>473700</nanos>
+  <sequence>592</sequence>
+  <logger>java.awt.mixing.Container</logger>
+  <level>FINE</level>
+  <class>java.awt.Container</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight=false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.964473700Z</date>
+  <millis>1790169648964</millis>
+  <nanos>473700</nanos>
+  <sequence>593</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>mixOnHiding</method>
+  <thread>34</thread>
+  <message>this = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; isLightweight = false</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.964473700Z</date>
+  <millis>1790169648964</millis>
+  <nanos>473700</nanos>
+  <sequence>594</sequence>
+  <logger>java.awt.mixing.Component</logger>
+  <level>FINE</level>
+  <class>java.awt.Component</class>
+  <method>isMixingNeeded</method>
+  <thread>34</thread>
+  <message>containing window = fr.tp.inf112.projects.canvas.view.CanvasViewer[frame0,-7,-7,1453x865,invalid,hidden,layout=java.awt.BorderLayout,title=Viewing Simple Test Puck Factory,resizable,maximized,defaultCloseOperation=HIDE_ON_CLOSE,rootPane=javax.swing.JRootPane[,6,29,1441x830,invalid,layout=javax.swing.JRootPane$RootLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=16777673,maximumSize=,minimumSize=,preferredSize=],rootPaneCheckingEnabled=true]; has h/w descendants = false; has l/w descendants = false; disposing = true</message>
+</record>
+<record>
+  <date>2026-09-23T13:20:48.965474Z</date>
+  <millis>1790169648965</millis>
+  <nanos>474000</nanos>
+  <sequence>595</sequence>
+  <logger>java.lang.Runtime</logger>
+  <level>FINE</level>
+  <class>java.lang.Shutdown</class>
+  <method>logRuntimeExit</method>
+  <thread>34</thread>
+  <message>Runtime.exit() called with status: 0</message>
+  <exception>
+    <message>java.lang.Throwable: Runtime.exit(0)</message>
+    <frame>
+      <class>java.lang.Shutdown</class>
+      <method>logRuntimeExit</method>
+    </frame>
+    <frame>
+      <class>java.lang.Shutdown</class>
+      <method>exit</method>
+    </frame>
+    <frame>
+      <class>java.lang.Runtime</class>
+      <method>exit</method>
+    </frame>
+    <frame>
+      <class>java.lang.System</class>
+      <method>exit</method>
+    </frame>
+    <frame>
+      <class>javax.swing.JFrame</class>
+      <method>processWindowEvent</method>
+    </frame>
+    <frame>
+      <class>java.awt.Window</class>
+      <method>processEvent</method>
+    </frame>
+    <frame>
+      <class>java.awt.Component</class>
+      <method>dispatchEventImpl</method>
+    </frame>
+    <frame>
+      <class>java.awt.Container</class>
+      <method>dispatchEventImpl</method>
+    </frame>
+    <frame>
+      <class>java.awt.Window</class>
+      <method>dispatchEventImpl</method>
+    </frame>
+    <frame>
+      <class>java.awt.Component</class>
+      <method>dispatchEvent</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEventImpl</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$4</class>
+      <method>run</method>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$5</class>
+      <method>run</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue$5</class>
+      <method>run</method>
+    </frame>
+    <frame>
+      <class>java.security.AccessController</class>
+      <method>doPrivileged</method>
+    </frame>
+    <frame>
+      <class>java.security.ProtectionDomain$JavaSecurityAccessImpl</class>
+      <method>doIntersectionPrivilege</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventQueue</class>
+      <method>dispatchEvent</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpOneEventForFilters</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForFilter</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEventsForHierarchy</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>pumpEvents</method>
+    </frame>
+    <frame>
+      <class>java.awt.EventDispatchThread</class>
+      <method>run</method>
+    </frame>
+  </exception>
+</record>
+</log>
